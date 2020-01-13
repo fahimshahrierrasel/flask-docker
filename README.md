@@ -1,4 +1,4 @@
-# Flask with Docker Boilerplate (For Development)
+# Flask Boilerplate with Docker (For Development)
 
 **Philosophy:**
 People does not need to download and install and configure your environment they just need one tool called `Docker` and `Terminal` to run your app. All the environment complexity is hide behind the docker configuration.
